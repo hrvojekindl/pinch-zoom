@@ -66,7 +66,7 @@ function createPoint() {
     return getSVG().createSVGPoint();
 }
 const MIN_SCALE = 0.01;
-const MAX_SCALE = 100;
+const MAX_SCALE = Infinity;
 class PinchZoom extends HTMLElement {
     constructor() {
         super();
