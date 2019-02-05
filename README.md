@@ -1,5 +1,7 @@
 # <pinch-zoom>
 
+Forked from https://github.com/GoogleChromeLabs/pinch-zoom
+
 A web component for pinch zooming DOM elements.
 
 ## Usage

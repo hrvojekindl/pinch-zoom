@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GoogleChromeLabs/pinch-zoom.git"
+    "url": "git+https://github.com/hrvojekindl/pinch-zoom.git"
   },
   "keywords": [
     "pointer",
@@ -19,12 +19,12 @@
     "pinch zoom",
     "pan"
   ],
-  "author": "Jake Archibald",
+  "author": "Hrvoje Kindl",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GoogleChromeLabs/pinch-zoom/issues"
+    "url": "https://github.com/hrvojekindl/pinch-zoom/issues"
   },
-  "homepage": "https://github.com/GoogleChromeLabs/pinch-zoom#readme",
+  "homepage": "https://github.com/hrvojekindl/pinch-zoom#readme",
   "dependencies": {
     "pointer-tracker": "^2.0.3"
   },
